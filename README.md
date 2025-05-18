@@ -25,7 +25,7 @@
 </div>
 <!--themes can be: ocean_dark, monokai, github_dark, react, default etc-->
 
-<img height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xzamdpbHE4ZmVxNW9iMGg4MGpzd2owMXlmaDFwcWVpanp0ZDQzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif"  />
+<img align="center" src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif?cid=ecf05e47umi0z1iyffkd3db1zwhk1r9h783qbjrhkw8i561m&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ##### ✍Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
