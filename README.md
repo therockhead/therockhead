@@ -28,6 +28,11 @@
 </div>
 <!--themes can be: ocean_dark, monokai, github_dark, react, default etc-->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therockhead/therockhead/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/therockhead/therockhead/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/therockhead/therockhead/output/github-contribution-grid-snake.svg">
+</picture>
 
 ##### ✍Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
