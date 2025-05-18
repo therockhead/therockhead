@@ -5,6 +5,9 @@
 </picture>
 
 ---
+<div align="center">
+  <img height="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA2ODY1YnZvNGh6eDhqNnUwbjB1bnk3ZmticHF2cTg2dzI2NXB6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif"  />
+</div>
 
 <h4 align="left">👋 Hi, I’m Asif. I’m interested in CP, Software Dev, ML, AI. <br>Currently learning DSA, Web Dev</h4>
 
@@ -29,12 +32,9 @@
 
 ###
 <div align="center">
-  <img height="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA2ODY1YnZvNGh6eDhqNnUwbjB1bnk3ZmticHF2cTg2dzI2NXB6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif"  />
-  <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=therockhead&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=therockhead&theme=merko&hide_border=false"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=therockhead&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false" height="210" alt="languages graph" />
-  
 </div>
 <!--themes can be: ocean_dark, monokai, github_dark, react, default , merko etc-->
 
