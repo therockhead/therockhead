@@ -29,7 +29,7 @@
 
 ###
 <div align="center">
-  <img height="210" src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif?cid=ecf05e47umi0z1iyffkd3db1zwhk1r9h783qbjrhkw8i561m&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img height="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA2ODY1YnZvNGh6eDhqNnUwbjB1bnk3ZmticHF2cTg2dzI2NXB6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif"  />
   <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=therockhead&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=therockhead&theme=merko&hide_border=false"/>
