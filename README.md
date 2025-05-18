@@ -27,12 +27,12 @@
 <div align="center">
   <img height="210" src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif?cid=ecf05e47umi0z1iyffkd3db1zwhk1r9h783qbjrhkw8i561m&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=therockhead&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=therockhead&theme=monokai&hide_border=false"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=therockhead&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=monokai&hide_border=false" height="210" alt="languages graph" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=therockhead&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=therockhead&theme=merko&hide_border=false"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=therockhead&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false" height="210" alt="languages graph" />
   
 </div>
-<!--themes can be: ocean_dark, monokai, github_dark, react, default etc-->
+<!--themes can be: ocean_dark, monokai, github_dark, react, default , merko etc-->
 
 
 
