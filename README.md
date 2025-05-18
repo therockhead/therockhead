@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <text color='cyan'>Profile Views </text>
+  <text style="color:cyan;"><b>Profile Views:</b></text><br>
   <img src="https://profile-counter.glitch.me/therockhead/count.svg?"  />
 </div>
 
