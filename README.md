@@ -1,5 +1,5 @@
 
-<h4 align="left">👋 Hi, I’m Asif. I’m interested in CP, Software Dev, ML, AI. <br>I’m currently learning DSA, Web Dev</h4>
+<h4 align="left">👋 Hi, I’m Asif. I’m interested in CP, Software Dev, ML, AI. <br>Currently learning DSA, Web Dev</h4>
 
 
 
