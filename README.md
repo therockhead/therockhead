@@ -1,6 +1,31 @@
-- 👋 Hi, I’m Asif
-- 👀 I’m interested in CP, Software Dev, ML, AI
-- ⚡ I’m currently learning DSA, Web Dev
+<h2 align="left">👋 Hi, I’m Asif. I’m interested in CP, Software Dev, ML, AI. I’m currently learning DSA, Web Dev</h2>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif?cid=ecf05e47lrc4ndgiqsf5za8jsh9kz3pwc3wvc79wsik6ton2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=therockhead&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=therockhead&locale=en&mode=weekly&theme=ocean_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therockhead&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/therockhead/therockhead/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/therockhead/count.svg?"  />
+</div>
+
+###
+###
 
 
 ## Socials:
