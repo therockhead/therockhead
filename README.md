@@ -29,7 +29,6 @@
 <!--themes can be: ocean_dark, monokai, github_dark, react, default etc-->
 
 
-
 ##### ✍Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
