@@ -16,11 +16,12 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/therockhead/therockhead/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
+  <text color='cyan'>Profile Views </text>
   <img src="https://profile-counter.glitch.me/therockhead/count.svg?"  />
 </div>
 
