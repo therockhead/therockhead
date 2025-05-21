@@ -3,7 +3,7 @@
   <img height="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA2ODY1YnZvNGh6eDhqNnUwbjB1bnk3ZmticHF2cTg2dzI2NXB6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif"  />
 </div>
 
-<h4 align="left">👋 Hi, I’m Asif. I’m interested in CP, Software Dev, ML, AI. <br>Currently learning DSA, Web Dev</h4>
+<h4 align="left">👋 Hi, I’m Asif, interested in CP, Software Dev, ML, AI. <br>Currently learning DSA, Web Dev</h4>
 
 ---
 
