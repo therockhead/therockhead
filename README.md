@@ -1,7 +1,10 @@
+### Asif's Coding Adventure
+
 ## 🌟 Personal Info
 ```java
-[NAME: Asif]
-Level: Undergrad, Bioinformatics Enginnering Student
+[PLAYER: Asif]
+[Level: Undergrad]
+[Clan: Bioinformatics Engineering]
 
 Special Skills: 
   - 💪🏼 Competitive Programming
@@ -31,7 +34,7 @@ Side Quests:
   - Increase Problem Solving
 ```
 
-## 🎮 Heatmap
+## 🎮 XP Heatmap
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therockhead/therockhead/output/pacman-contribution-graph-dark.svg">
