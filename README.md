@@ -1,15 +1,60 @@
 
+```
+████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
+████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
+▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
+█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
+▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
+██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
+████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
+██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
+████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
+████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
+█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
+█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
+▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+```
+ 
+## 🌟 Player Info
+```java
+[PLAYER: Asif]
+Level: Undergrad, Bioinformatics Enginnering Student
+Special Skills: 
+  - 💪🏼 Competitive Programming
+  - 🧑🏻‍💻 Software Development
+  - ✍🏻 Learning new things
+```
+## 💻 Inventory
+```
+[EQUIPMENT]
+🧠 Programming Languages: Python, C, C++, Java, JavaScript, TypeScript
+🌐 Web Development: HTML5, CSS3, JavaScript, React.js, Flask
+🗄️ Databases: MySQL, SQLite
+🧰 Miscellaneous: Linux, Terminal, Bash, Tkinter, Swing GUI
+```
+<!--
 <div align="center">
-  <img height="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA2ODY1YnZvNGh6eDhqNnUwbjB1bnk3ZmticHF2cTg2dzI2NXB6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
+-->
 
-<h4 align="left">👋 Hi, I’m Asif, interested in CP, Software Dev, ML, AI. <br>Currently learning DSA, Web Dev</h4>
+## 🗺️ Active Quest
+```
+Mission: Learn DSA effectively  
+Progress: █████░░░░░░░ (40%)
+Side Quests: 
+  - Learn a Back-end framework, Foundation of ML
+  - Increase Problem Solving
+```
 
----
-
-###
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/therockhead) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therockhead_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-zaman001) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCamcq-wKO2FDIXDpB13BkIw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifzamanzisan@gmail.com) 
-
+## 🎮 Heatmap
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therockhead/therockhead/output/pacman-contribution-graph-dark.svg">
@@ -19,42 +64,23 @@
 
 ###
 
-###
-<div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=therockhead&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=therockhead&theme=merko&hide_border=false"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=therockhead&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false" height="210" alt="languages graph" />
-</div>
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therockhead/therockhead/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/therockhead/therockhead/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/therockhead/therockhead/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=therockhead.therockhead&left_color=royalblue&right_color=grey"  />
-</div>
-
-
+## 📶 Player Stats
 <!--themes can be: ocean_dark, monokai, github_dark, react, default , merko etc-->
+<div align="center">
+<!--   <img src = "https://github-readme-stats.vercel.app/api?username=therockhead&theme=merko&hide_border=false&include_all_commits=true&count_private=true" /> -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=therockhead&theme=dark&hide_border=false"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=therockhead&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="195" alt="languages graph" />
+</div>
 
----
 
-##### ✍Daily Dev Quote
+
+
+## 🤝 Connect with the player
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifzamanzisan@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-zaman001) [![codeforces](https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=black&logoColor=white&labelColor=&style=plastic)](https://codeforces.com/profile/TheRockHead) [![HackerRank](https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic)](https://www.hackerrank.com/profile/therockhead) [![codechef](https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=grey&logoColor=brown&labelColor=&style=plastic)](https://www.codechef.com/users/therockhead) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=light-grey)](https://youtube.com/@UCamcq-wKO2FDIXDpB13BkIw)
+
+## 💭 Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-therockhead/therockhead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--@uthor: asif AKA therockhead-->
