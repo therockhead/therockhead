@@ -1,4 +1,5 @@
-### Asif's Coding Adventure
+### 🎮 Asif's Coding Adventure
+---
 
 ## 🌟 Personal Info
 ```java
@@ -34,7 +35,7 @@ Side Quests:
   - Increase Problem Solving
 ```
 
-## 🎮 XP Heatmap
+## 🎮🪄 XP Heatmap
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therockhead/therockhead/output/pacman-contribution-graph-dark.svg">
