@@ -1,41 +1,57 @@
-### 🎮 Asif's Coding Adventure
----
+<h1 align="center">Hi 👋 I'm Asif</h1>
 
-## 🌟 Personal Info
-```java
-[PLAYER: Asif]
-[Level: Undergrad]
-[Clan: Bioinformatics Engineering]
+## 🌟 Intro
+Currently an undergrad student majoring in Bioinformatics Engineering @BAU
 
-Special Skills: 
-  - 💪🏼 Competitive Programming
-  - 🧑🏻‍💻 Software Development
-  - ✍🏻 Learning new things
-```
-## 💻 Inventory
-```
-[EQUIPMENT]
-🧠 Programming Languages: Python, C, C++, Java, JavaScript, TypeScript
-🌐 Web Development: HTML5, CSS3, JavaScript, React.js, Flask
-🗄️ Databases: MySQL, SQLite
-🧰 Miscellaneous: Linux, Terminal, Bash, Tkinter, Swing GUI
-```
+I love problem solving, working on projects and learning new CS stuffs.
+
+## 🛠️ What I'm up to
+
+ - 🧩 Learning DSA  
+ - 🎯 Competitive Programming
+ - 💻 Learning Backend development
+ - 👨🏻‍🏫 Mentoring juniors in coding bootcamps @BAU
+
+
+## 🤝 Connect with me
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifzamanzisan@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-zaman001) 
+
+
+## 💻 Tech Inventory
+
+```Languages: ```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+```Dev Tools: ```
+ ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+```Code Editors & IDE: ``` 
+ ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+```OS: ```
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
 <!--
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
 -->
 
-## 🗺️ Active Quest
-```
-Mission: Learn DSA effectively  
-Progress: █████░░░░░░░ (40%)
-Side Quests: 
-  - Learn a Back-end framework, Foundation of ML
-  - Increase Problem Solving
-```
-
-## 🎮🪄 XP Heatmap
+## 🎮 XP Heatmap
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therockhead/therockhead/output/pacman-contribution-graph-dark.svg">
@@ -45,20 +61,14 @@ Side Quests:
 
 ###
 
-## 📶 Player Stats
+## 📶 Stats
 <!--themes can be: ocean_dark, monokai, github_dark, react, default , merko etc-->
 <div align="center">
-<!--   <img src = "https://github-readme-stats.vercel.app/api?username=therockhead&theme=merko&hide_border=false&include_all_commits=true&count_private=true" /> -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=therockhead&theme=dark&hide_border=false"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=therockhead&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="195" alt="languages graph" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=therockhead&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=therockhead&theme=merko&hide_border=false"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=therockhead&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false" height="195" alt="languages graph" />
 </div>
 
-
-
-
-## 🤝 Connect with the player
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifzamanzisan@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-zaman001) [![codeforces](https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=black&logoColor=white&labelColor=&style=plastic)](https://codeforces.com/profile/TheRockHead) [![HackerRank](https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic)](https://www.hackerrank.com/profile/therockhead) [![codechef](https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=grey&logoColor=brown&labelColor=&style=plastic)](https://www.codechef.com/users/therockhead) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=light-grey)](https://youtube.com/@UCamcq-wKO2FDIXDpB13BkIw)
 
 ## 💭 Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
