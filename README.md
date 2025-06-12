@@ -64,11 +64,12 @@ I love problem solving, working on projects and learning new CS stuffs.
 ## 📶 Stats
 <!--themes can be: ocean_dark, monokai, github_dark, react, default , merko etc-->
 <div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=therockhead&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=therockhead&theme=merko&hide_border=false"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=therockhead&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false" height="195" alt="languages graph" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=therockhead&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=therockhead&theme=gotham&hide_border=false"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=therockhead&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=false" height="195" alt="languages graph" />
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=therockhead&label=Profile%20views&color=f1495c&style=transparent" alt="therockhead"/> 
 
 ## 💭 Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
