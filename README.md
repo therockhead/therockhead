@@ -59,7 +59,6 @@ I love problem solving, working on projects and learning new CS stuffs.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/therockhead/therockhead/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
 ## 📶 Stats
 <!--themes can be: ocean_dark, monokai, github_dark, react, default , merko etc-->
