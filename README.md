@@ -16,7 +16,7 @@ I love problem solving, working on projects and learning new CS stuffs.
 ## 🤝 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifzamanzisan@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-zaman001) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-zaman001) <img src="https://komarev.com/ghpvc/?username=therockhead&label=Profile%20views&color=f1495c&style=transparent" alt="therockhead"/> 
 
 
 ## 💻 Tech Inventory
@@ -42,7 +42,7 @@ I love problem solving, working on projects and learning new CS stuffs.
 ```OS: ```
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
 
 <!--
@@ -68,7 +68,7 @@ I love problem solving, working on projects and learning new CS stuffs.
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=therockhead&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=false" height="195" alt="languages graph" />
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=therockhead&label=Profile%20views&color=f1495c&style=transparent" alt="therockhead"/> 
+
 
 ## 💭 Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
