@@ -2,6 +2,23 @@ Currently an undergrad student majoring in Bioinformatics Engineering @BAU
 
 I love problem solving, working on projects and learning new CS stuffs.
 
+<div align="center">
+  <div style="display: flex; align-items: flex-start; justify-content: center; gap: 30px; margin-bottom: 15px;">
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+  </div>
+  
+  <div style="display: flex; align-items: flex-start; justify-content: center; gap: 30px;">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://skillicons.dev/icons?i=git" alt="icon" width="48" height="48"/>
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+  </div>
+</div>
+
+
+
 ## </> Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifzamanzisan@gmail.com) 
