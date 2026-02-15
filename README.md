@@ -8,12 +8,13 @@ I love problem solving, working on projects and learning new CS stuffs.
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   </div>
   
   <div style="display: flex; align-items: flex-start; justify-content: center; gap: 30px;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://skillicons.dev/icons?i=git" alt="icon" width="48" height="48"/>
+    <img src="img/git.png" alt="icon" width="48" height="48"/>
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+    <img src="img/linux.png" alt="icon" width="65" height="65" />
   </div>
 </div>
 
