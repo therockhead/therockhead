@@ -12,7 +12,6 @@
   </div>
   
   <div style="display: flex; align-items: flex-start; justify-content: center; gap: 30px;">
-    <img src="img/linux.png" alt="icon" width="65" height="65" />
     <img src="img/git.png" alt="icon" width="48" height="48"/>
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
   </div>
